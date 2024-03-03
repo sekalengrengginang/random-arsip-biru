@@ -1,7 +1,8 @@
 {
-  "name": "consume-api",
+  "name": "arsip-biru",
   "version": "0.1.0",
   "private": true,
+  "description": "Blue Archive Character",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -13,9 +14,11 @@
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
     "axios": "^1.6.7",
+    "dotenv": "^16.4.3",
     "framer-motion": "^11.0.3",
     "next": "14.1.0",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-icons": "^5.0.1"
   }
 }
